@@ -1,0 +1,8 @@
+﻿  main.cpp
+C:\Users\khs\source\repos\승강제\승강제\main.cpp(76,19): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\khs\source\repos\승강제\승강제\main.cpp(77,19): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\khs\source\repos\승강제\승강제\main.cpp(162,15): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\khs\source\repos\승강제\승강제\main.cpp(163,15): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\khs\source\repos\승강제\승강제\main.cpp(225,19): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\khs\source\repos\승강제\승강제\main.cpp(226,19): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  승강제.vcxproj -> C:\Users\khs\source\repos\승강제\x64\Debug\승강제.exe

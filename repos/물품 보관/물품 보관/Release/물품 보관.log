@@ -1,0 +1,6 @@
+﻿  소스.cpp
+c:\users\khs\source\repos\물품 보관\물품 보관\소스.cpp(160): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  코드를 생성하고 있습니다.
+  All 128 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  코드를 생성했습니다.
+  물품 보관.vcxproj -> C:\Users\khs\source\repos\물품 보관\Release\물품 보관.exe

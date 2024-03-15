@@ -1,0 +1,4 @@
+﻿  소스.cpp
+c:\users\khs\source\repos\승강제리그\승강제리그\소스.cpp(123): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\khs\source\repos\승강제리그\승강제리그\소스.cpp(147): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  승강제리그.vcxproj -> C:\Users\khs\source\repos\승강제리그\Debug\승강제리그.exe

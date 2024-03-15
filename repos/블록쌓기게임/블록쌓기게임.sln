@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "블록쌓기게임", "블록쌓기게임\블록쌓기게임.vcxproj", "{187C4C1F-FAEB-471E-BFBC-4FAB0ED6E149}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{187C4C1F-FAEB-471E-BFBC-4FAB0ED6E149}.Debug|x64.ActiveCfg = Debug|x64
+		{187C4C1F-FAEB-471E-BFBC-4FAB0ED6E149}.Debug|x64.Build.0 = Debug|x64
+		{187C4C1F-FAEB-471E-BFBC-4FAB0ED6E149}.Debug|x86.ActiveCfg = Debug|Win32
+		{187C4C1F-FAEB-471E-BFBC-4FAB0ED6E149}.Debug|x86.Build.0 = Debug|Win32
+		{187C4C1F-FAEB-471E-BFBC-4FAB0ED6E149}.Release|x64.ActiveCfg = Release|x64
+		{187C4C1F-FAEB-471E-BFBC-4FAB0ED6E149}.Release|x64.Build.0 = Release|x64
+		{187C4C1F-FAEB-471E-BFBC-4FAB0ED6E149}.Release|x86.ActiveCfg = Release|Win32
+		{187C4C1F-FAEB-471E-BFBC-4FAB0ED6E149}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E61C688F-78D6-4016-9ACE-68F8E141D32F}
+	EndGlobalSection
+EndGlobal

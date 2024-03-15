@@ -1,0 +1,5 @@
+﻿  소스.cpp
+c:\users\khs\source\repos\상품권배분\상품권배분\소스.cpp(82): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\khs\source\repos\상품권배분\상품권배분\소스.cpp(126): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\khs\source\repos\상품권배분\상품권배분\소스.cpp(150): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  상품권배분.vcxproj -> c:\Users\khs\source\repos\상품권배분\Debug\상품권배분.exe

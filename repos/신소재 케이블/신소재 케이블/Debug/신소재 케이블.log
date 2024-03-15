@@ -1,0 +1,6 @@
+﻿  소스.cpp
+c:\users\khs\source\repos\신소재 케이블\신소재 케이블\소스.cpp(114): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\khs\source\repos\신소재 케이블\신소재 케이블\소스.cpp(147): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\khs\source\repos\신소재 케이블\신소재 케이블\소스.cpp(177): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\khs\source\repos\신소재 케이블\신소재 케이블\소스.cpp(196): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  신소재 케이블.vcxproj -> c:\Users\khs\source\repos\신소재 케이블\Debug\신소재 케이블.exe

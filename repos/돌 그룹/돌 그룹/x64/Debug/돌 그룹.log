@@ -1,0 +1,177 @@
+﻿  main.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\type_traits(2441,55): error C2676: 이항 '<': 'const _Ty'이(가) 이 연산자를 정의하지 않거나 미리 정의된 연산자에 허용되는 형식으로의 변환을 정의하지 않습니다.
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\type_traits(2441,55): error C2676:         with
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\type_traits(2441,55): error C2676:         [
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\type_traits(2441,55): error C2676:             _Ty=T
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\type_traits(2441,55): error C2676:         ]
+  (소스 파일 'main.cpp'을(를) 컴파일하는 중)
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\set(447,17):
+  'bool std::operator <(const std::multiset<_Kty,_Pr,_Alloc> &,const std::multiset<_Kty,_Pr,_Alloc> &)'일 수 있습니다.
+  	C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\type_traits(2441,49):
+  	'bool std::operator <(const std::multiset<_Kty,_Pr,_Alloc> &,const std::multiset<_Kty,_Pr,_Alloc> &)': 'const _Ty'에서 'const std::multiset<_Kty,_Pr,_Alloc> &'에 대한 템플릿 인수를 추론할 수 없습니다.
+          with
+          [
+              _Ty=T
+          ]
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\set(230,17):
+  또는       'bool std::operator <(const std::set<_Kty,_Pr,_Alloc> &,const std::set<_Kty,_Pr,_Alloc> &)'
+  	C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\type_traits(2441,49):
+  	'bool std::operator <(const std::set<_Kty,_Pr,_Alloc> &,const std::set<_Kty,_Pr,_Alloc> &)': 'const _Ty'에서 'const std::set<_Kty,_Pr,_Alloc> &'에 대한 템플릿 인수를 추론할 수 없습니다.
+          with
+          [
+              _Ty=T
+          ]
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\memory(3577,30):
+  또는       'bool std::operator <(std::nullptr_t,const std::unique_ptr<_Ty,_Dx> &)'
+  	C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\type_traits(2441,49):
+  	'bool std::operator <(std::nullptr_t,const std::unique_ptr<_Ty,_Dx> &)': 'const _Ty'에서 'const std::unique_ptr<_Ty,_Dx> &'에 대한 템플릿 인수를 추론할 수 없습니다.
+          with
+          [
+              _Ty=T
+          ]
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\memory(3571,30):
+  또는       'bool std::operator <(const std::unique_ptr<_Ty,_Dx> &,std::nullptr_t)'
+  	C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\type_traits(2441,49):
+  	'bool std::operator <(const std::unique_ptr<_Ty,_Dx> &,std::nullptr_t)': 'const _Ty'에서 'const std::unique_ptr<_Ty,_Dx> &'에 대한 템플릿 인수를 추론할 수 없습니다.
+          with
+          [
+              _Ty=T
+          ]
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\memory(3513,17):
+  또는       'bool std::operator <(const std::unique_ptr<_Ty,_Dx> &,const std::unique_ptr<_Ty2,_Dx2> &)'
+  	C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\type_traits(2441,49):
+  	'bool std::operator <(const std::unique_ptr<_Ty,_Dx> &,const std::unique_ptr<_Ty2,_Dx2> &)': 'const _Ty'에서 'const std::unique_ptr<_Ty,_Dx> &'에 대한 템플릿 인수를 추론할 수 없습니다.
+          with
+          [
+              _Ty=T
+          ]
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\memory(1942,17):
+  또는       'bool std::operator <(std::nullptr_t,const std::shared_ptr<_Ty> &) noexcept'
+  	C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\type_traits(2441,49):
+  	'bool std::operator <(std::nullptr_t,const std::shared_ptr<_Ty> &) noexcept': 'const _Ty'에서 'const std::shared_ptr<_Ty> &'에 대한 템플릿 인수를 추론할 수 없습니다.
+          with
+          [
+              _Ty=T
+          ]
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\memory(1937,17):
+  또는       'bool std::operator <(const std::shared_ptr<_Ty> &,std::nullptr_t) noexcept'
+  	C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\type_traits(2441,49):
+  	'bool std::operator <(const std::shared_ptr<_Ty> &,std::nullptr_t) noexcept': 'const _Ty'에서 'const std::shared_ptr<_Ty> &'에 대한 템플릿 인수를 추론할 수 없습니다.
+          with
+          [
+              _Ty=T
+          ]
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\memory(1890,17):
+  또는       'bool std::operator <(const std::shared_ptr<_Ty> &,const std::shared_ptr<_Ty0> &) noexcept'
+  	C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\type_traits(2441,49):
+  	'bool std::operator <(const std::shared_ptr<_Ty> &,const std::shared_ptr<_Ty0> &) noexcept': 'const _Ty'에서 'const std::shared_ptr<_Ty> &'에 대한 템플릿 인수를 추론할 수 없습니다.
+          with
+          [
+              _Ty=T
+          ]
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\xstring(5074,17):
+  또는       'bool std::operator <(const std::basic_string<_Elem,_Traits,_Alloc> &,const _Elem *const )'
+  	C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\type_traits(2441,49):
+  	'bool std::operator <(const std::basic_string<_Elem,_Traits,_Alloc> &,const _Elem *const )': 'const _Ty'에서 'const std::basic_string<_Elem,_Traits,_Alloc> &'에 대한 템플릿 인수를 추론할 수 없습니다.
+          with
+          [
+              _Ty=T
+          ]
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\xstring(5069,17):
+  또는       'bool std::operator <(const _Elem *const ,const std::basic_string<_Elem,_Traits,_Alloc> &)'
+  	C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\type_traits(2441,49):
+  	'bool std::operator <(const _Elem *const ,const std::basic_string<_Elem,_Traits,_Alloc> &)': 'const _Ty'에서 'const _Elem *const '에 대한 템플릿 인수를 추론할 수 없습니다.
+          with
+          [
+              _Ty=T
+          ]
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\xstring(5063,17):
+  또는       'bool std::operator <(const std::basic_string<_Elem,_Traits,_Alloc> &,const std::basic_string<_Elem,_Traits,_Alloc> &) noexcept'
+  	C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\type_traits(2441,49):
+  	'bool std::operator <(const std::basic_string<_Elem,_Traits,_Alloc> &,const std::basic_string<_Elem,_Traits,_Alloc> &) noexcept': 'const _Ty'에서 'const std::basic_string<_Elem,_Traits,_Alloc> &'에 대한 템플릿 인수를 추론할 수 없습니다.
+          with
+          [
+              _Ty=T
+          ]
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\xutility(4274,5):
+  또는       'bool std::operator <(const std::move_iterator<_Iter> &,const std::move_iterator<_Iter2> &) noexcept(<expr>)'
+  	C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\type_traits(2441,49):
+  	'bool std::operator <(const std::move_iterator<_Iter> &,const std::move_iterator<_Iter2> &) noexcept(<expr>)': 'const _Ty'에서 'const std::move_iterator<_Iter> &'에 대한 템플릿 인수를 추론할 수 없습니다.
+          with
+          [
+              _Ty=T
+          ]
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\xutility(1706,5):
+  또는       'bool std::operator <(const std::reverse_iterator<_BidIt> &,const std::reverse_iterator<_BidIt2> &) noexcept(<expr>)'
+  	C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\type_traits(2441,49):
+  	'bool std::operator <(const std::reverse_iterator<_BidIt> &,const std::reverse_iterator<_BidIt2> &) noexcept(<expr>)': 'const _Ty'에서 'const std::reverse_iterator<_BidIt> &'에 대한 템플릿 인수를 추론할 수 없습니다.
+          with
+          [
+              _Ty=T
+          ]
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\utility(513,27):
+  또는       'bool std::operator <(const std::pair<_Ty1,_Ty2> &,const std::pair<_Uty1,_Uty2> &)'
+  	C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\type_traits(2441,49):
+  	'bool std::operator <(const std::pair<_Ty1,_Ty2> &,const std::pair<_Uty1,_Uty2> &)': 'const _Ty'에서 'const std::pair<_Ty1,_Ty2> &'에 대한 템플릿 인수를 추론할 수 없습니다.
+          with
+          [
+              _Ty=T
+          ]
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\type_traits(2441,55):
+  the template instantiation context (the oldest one first) is
+  	C:\Users\khs\source\repos\돌 그룹\돌 그룹\main.cpp(21,8):
+  	컴파일되는 클래스 템플릿 인스턴스화 'std::set<T,std::less<T>,std::allocator<T>>'에 대한 참조를 확인하세요.
+  	C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\set(51,20):
+  	컴파일되는 클래스 템플릿 인스턴스화 'std::_Tree<std::_Tset_traits<_Kty,_Pr,_Alloc,false>>'에 대한 참조를 확인하세요.
+          with
+          [
+              _Kty=T,
+              _Pr=std::less<T>,
+              _Alloc=std::allocator<T>
+          ]
+  	C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\xtree(1370,25):
+  	클래스 템플릿 멤버 함수 'std::_Tree_const_iterator<std::_Tree_val<std::_Tree_simple_types<T>>> std::_Tree<std::_Tset_traits<_Kty,_Pr,_Alloc,false>>::find(const T &)'을(를) 컴파일하는 중입니다.
+          with
+          [
+              _Kty=T,
+              _Pr=std::less<T>,
+              _Alloc=std::allocator<T>
+          ]
+  		C:\Users\khs\source\repos\돌 그룹\돌 그룹\main.cpp(30,2):
+  		'run'에서 'std::_Tree<std::_Tset_traits<_Kty,_Pr,_Alloc,false>>::find'에 대한 첫 번째 참조를 확인하세요.
+          with
+          [
+              _Kty=T,
+              _Pr=std::less<T>,
+              _Alloc=std::allocator<T>
+          ]
+  	C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\xtree(1371,25):
+  	컴파일되는 함수 템플릿 인스턴스화 'std::_Tree_node<T,std::_Default_allocator_traits<_Alloc>::void_pointer> *std::_Tree<std::_Tset_traits<_Kty,_Pr,_Alloc,false>>::_Find<T>(const _Other &) const'에 대한 참조를 확인하세요.
+          with
+          [
+              _Alloc=std::allocator<T>,
+              _Kty=T,
+              _Pr=std::less<T>,
+              _Other=T
+          ]
+  	C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\xtree(1361,50):
+  	컴파일되는 함수 템플릿 인스턴스화 'std::_Tree_find_result<std::_Tree_node<T,std::_Default_allocator_traits<_Alloc>::void_pointer> *> std::_Tree<std::_Tset_traits<_Kty,_Pr,_Alloc,false>>::_Find_lower_bound<_Other>(const _Keyty &) const'에 대한 참조를 확인하세요.
+          with
+          [
+              _Alloc=std::allocator<T>,
+              _Kty=T,
+              _Pr=std::less<T>,
+              _Other=T,
+              _Keyty=T
+          ]
+  	C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\xtree(1610,17):
+  	컴파일되는 함수 템플릿 인스턴스화 'bool std::_Debug_lt_pred<const std::less<T>&,const _Kty&,const _Keyty&,0>(_Pr,_Ty1,_Ty2) noexcept(<expr>)'에 대한 참조를 확인하세요.
+          with
+          [
+              _Kty=T,
+              _Keyty=T,
+              _Pr=const std::less<T> &,
+              _Ty1=const T &,
+              _Ty2=const T &
+          ]
+  

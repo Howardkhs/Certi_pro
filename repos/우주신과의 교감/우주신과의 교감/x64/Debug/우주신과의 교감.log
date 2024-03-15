@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\khs\source\repos\우주신과의 교감\우주신과의 교감\main.cpp(64,12): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\khs\source\repos\우주신과의 교감\우주신과의 교감\main.cpp(64,34): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\khs\source\repos\우주신과의 교감\우주신과의 교감\main.cpp(65,12): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\khs\source\repos\우주신과의 교감\우주신과의 교감\main.cpp(65,34): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  우주신과의 교감.vcxproj -> C:\Users\khs\source\repos\우주신과의 교감\x64\Debug\우주신과의 교감.exe

@@ -1,0 +1,15 @@
+﻿  소스.cpp
+c:\users\khs\source\repos\토끼와 경주\토끼와 경주\소스.cpp(165): warning C4244: '초기화 중': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\khs\source\repos\토끼와 경주\토끼와 경주\소스.cpp(210): error C2672: 'std::max': 일치하는 오버로드된 함수가 없습니다.
+c:\users\khs\source\repos\토끼와 경주\토끼와 경주\소스.cpp(210): error C2780: '_Ty std::max(std::initializer_list<_Elem>)': 인수가 1개 있어야 하는데 2개를 사용했습니다.
+  c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\algorithm(5399): note: 'std::max' 선언을 참조하십시오.
+c:\users\khs\source\repos\토끼와 경주\토끼와 경주\소스.cpp(210): error C2782: 'const _Ty &std::max(const _Ty &,const _Ty &) noexcept(<expr>)': 템플릿 매개 변수 '_Ty'이(가) 모호합니다.
+  c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\algorithm(5385): note: 'std::max' 선언을 참조하십시오.
+  c:\users\khs\source\repos\토끼와 경주\토끼와 경주\소스.cpp(210): note: '__int64'일 수 있습니다.
+  c:\users\khs\source\repos\토끼와 경주\토끼와 경주\소스.cpp(210): note: 또는      'int'
+c:\users\khs\source\repos\토끼와 경주\토끼와 경주\소스.cpp(210): error C2784: 'const _Ty &std::max(const _Ty &,const _Ty &) noexcept(<expr>)': 'const _Ty &'의 템플릿 인수를 '__int64'에서 추론할 수 없습니다.
+  c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\algorithm(5385): note: 'std::max' 선언을 참조하십시오.
+c:\users\khs\source\repos\토끼와 경주\토끼와 경주\소스.cpp(210): error C2784: '_Ty std::max(std::initializer_list<_Elem>,_Pr)': 'std::initializer_list<_Elem>'의 템플릿 인수를 'int'에서 추론할 수 없습니다.
+  c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\algorithm(5375): note: 'std::max' 선언을 참조하십시오.
+c:\users\khs\source\repos\토끼와 경주\토끼와 경주\소스.cpp(210): error C2780: 'const _Ty &std::max(const _Ty &,const _Ty &,_Pr) noexcept(<expr>)': 인수가 3개 있어야 하는데 2개를 사용했습니다.
+  c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\algorithm(5367): note: 'std::max' 선언을 참조하십시오.

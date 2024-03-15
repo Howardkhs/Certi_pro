@@ -1,0 +1,4 @@
+﻿  소스.cpp
+c:\users\khs\source\repos\파일저장소2\파일저장소2\소스.cpp(141): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\khs\source\repos\파일저장소2\파일저장소2\소스.cpp(154): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  파일저장소2.vcxproj -> C:\Users\khs\source\repos\파일저장소2\Debug\파일저장소2.exe

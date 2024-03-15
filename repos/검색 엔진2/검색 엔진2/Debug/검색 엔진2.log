@@ -1,0 +1,11 @@
+﻿  소스.cpp
+c:\users\khs\source\repos\검색 엔진2\검색 엔진2\소스.cpp(118): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\khs\source\repos\검색 엔진2\검색 엔진2\소스.cpp(127): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\khs\source\repos\검색 엔진2\검색 엔진2\소스.cpp(150): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\khs\source\repos\검색 엔진2\검색 엔진2\소스.cpp(196): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\khs\source\repos\검색 엔진2\검색 엔진2\소스.cpp(240): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\khs\source\repos\검색 엔진2\검색 엔진2\소스.cpp(246): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\khs\source\repos\검색 엔진2\검색 엔진2\소스.cpp(258): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\khs\source\repos\검색 엔진2\검색 엔진2\소스.cpp(269): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\khs\source\repos\검색 엔진2\검색 엔진2\소스.cpp(226): warning C4715: 'recommend': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  검색 엔진2.vcxproj -> C:\Users\khs\source\repos\검색 엔진2\Debug\검색 엔진2.exe

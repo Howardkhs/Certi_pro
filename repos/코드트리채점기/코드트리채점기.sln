@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.34526.175
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "코드트리채점기", "코드트리채점기\코드트리채점기.vcxproj", "{01B9FB1F-DB8B-4AE9-B7EA-85B18EBD6F6C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{01B9FB1F-DB8B-4AE9-B7EA-85B18EBD6F6C}.Debug|x64.ActiveCfg = Debug|x64
+		{01B9FB1F-DB8B-4AE9-B7EA-85B18EBD6F6C}.Debug|x64.Build.0 = Debug|x64
+		{01B9FB1F-DB8B-4AE9-B7EA-85B18EBD6F6C}.Debug|x86.ActiveCfg = Debug|Win32
+		{01B9FB1F-DB8B-4AE9-B7EA-85B18EBD6F6C}.Debug|x86.Build.0 = Debug|Win32
+		{01B9FB1F-DB8B-4AE9-B7EA-85B18EBD6F6C}.Release|x64.ActiveCfg = Release|x64
+		{01B9FB1F-DB8B-4AE9-B7EA-85B18EBD6F6C}.Release|x64.Build.0 = Release|x64
+		{01B9FB1F-DB8B-4AE9-B7EA-85B18EBD6F6C}.Release|x86.ActiveCfg = Release|Win32
+		{01B9FB1F-DB8B-4AE9-B7EA-85B18EBD6F6C}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {41FC27AD-A4D6-4965-9914-DDC45D6A0685}
+	EndGlobalSection
+EndGlobal

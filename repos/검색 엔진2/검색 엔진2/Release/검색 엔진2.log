@@ -1,0 +1,13 @@
+﻿  소스.cpp
+c:\users\khs\source\repos\검색 엔진2\검색 엔진2\소스.cpp(120): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\khs\source\repos\검색 엔진2\검색 엔진2\소스.cpp(144): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\khs\source\repos\검색 엔진2\검색 엔진2\소스.cpp(193): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\khs\source\repos\검색 엔진2\검색 엔진2\소스.cpp(244): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\khs\source\repos\검색 엔진2\검색 엔진2\소스.cpp(254): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\khs\source\repos\검색 엔진2\검색 엔진2\소스.cpp(264): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  코드를 생성하고 있습니다.
+  14 of 540 functions ( 2.6%) were compiled, the rest were copied from previous compilation.
+    9 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  코드를 생성했습니다.
+  검색 엔진2.vcxproj -> C:\Users\khs\source\repos\검색 엔진2\Release\검색 엔진2.exe

@@ -1,0 +1,3 @@
+﻿  소스.cpp
+c:\users\khs\source\repos\뉴스알림\뉴스알림\소스.cpp(101): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  뉴스알림.vcxproj -> c:\users\khs\source\repos\뉴스알림\Debug\뉴스알림.exe

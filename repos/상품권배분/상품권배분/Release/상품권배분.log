@@ -1,0 +1,10 @@
+﻿  소스.cpp
+c:\users\khs\source\repos\상품권배분\상품권배분\소스.cpp(82): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\khs\source\repos\상품권배분\상품권배분\소스.cpp(126): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\khs\source\repos\상품권배분\상품권배분\소스.cpp(150): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  코드를 생성하고 있습니다.
+  15 of 430 functions ( 3.5%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  코드를 생성했습니다.
+  상품권배분.vcxproj -> c:\Users\khs\source\repos\상품권배분\Release\상품권배분.exe

@@ -1,0 +1,6 @@
+﻿  main.cpp
+c:\users\khs\source\repos\socialmedia\socialmedia\main.cpp(108): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\khs\source\repos\socialmedia\socialmedia\main.cpp(131): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\khs\source\repos\socialmedia\socialmedia\main.cpp(159): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\khs\source\repos\socialmedia\socialmedia\main.cpp(182): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  socialmedia.vcxproj -> c:\users\khs\source\repos\socialmedia\Debug\socialmedia.exe

@@ -1,0 +1,8 @@
+﻿  소스.cpp
+c:\users\khs\source\repos\뉴스알림\뉴스알림\소스.cpp(106): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  코드를 생성하고 있습니다.
+  2 of 440 functions ( 0.5%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  코드를 생성했습니다.
+  뉴스알림.vcxproj -> c:\users\khs\source\repos\뉴스알림\Release\뉴스알림.exe

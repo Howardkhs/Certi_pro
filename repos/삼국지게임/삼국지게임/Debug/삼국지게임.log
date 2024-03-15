@@ -1,0 +1,4 @@
+﻿  소스.cpp
+c:\users\khs\source\repos\삼국지게임\삼국지게임\소스.cpp(106): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\khs\source\repos\삼국지게임\삼국지게임\소스.cpp(112): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  삼국지게임.vcxproj -> C:\Users\khs\source\repos\삼국지게임\Debug\삼국지게임.exe

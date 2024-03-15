@@ -1,0 +1,7 @@
+﻿  소스.cpp
+c:\users\khs\source\repos\삼국지게임\삼국지게임\소스.cpp(106): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\khs\source\repos\삼국지게임\삼국지게임\소스.cpp(112): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  코드를 생성하고 있습니다.
+  All 535 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  코드를 생성했습니다.
+  삼국지게임.vcxproj -> C:\Users\khs\source\repos\삼국지게임\Release\삼국지게임.exe
